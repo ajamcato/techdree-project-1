@@ -165,7 +165,7 @@ a.social:hover {
 
 /* Styles for larger screens */
 @media screen and (min-width: 720px) {
-
+}
   .flex {
 
       display: flex;
@@ -201,5 +201,5 @@ a.social:hover {
   footer {
     font-size: 1.3em;
     max-width: 1200px;
-    margin: 40px auto;
-}
+      margin: 40px auto;
+  }
