@@ -15,7 +15,7 @@ body {
 
 a {
   text-decoration: none;
-  color: #999;
+  color: white;
 }
 a:hover {
   color: #6633ff;
@@ -89,8 +89,8 @@ header .profile-image:hover {
   color: yellow;
 }
 .card {
-  margin: 30px;
-  padding: 20px 40px 40px;
+  margin: 20px;
+  padding: 40px 40px 40px;
   max-width: 500px;
   text-align: left;
   background: #fff;
@@ -186,7 +186,9 @@ a.social:hover {
   text-align: center;
   border: solid blue 3px;
   border-radius: 10px;
-  margin-top: 50px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  padding: 0px;
 
   }
 
